@@ -6,8 +6,8 @@ from datetime import datetime
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 PAGE_ACCESS_TOKEN = "EAAWFfbzaNu8BRiaeKxxuuhLXe3A0FV0CM7SHdQtJKnaFd9GWiqOF4tiXb4biBsKas6ZAvvR8koS6peXnOd4G9agaefv466obFrDo0XkzMu38vXMZAEY3G3nHPGLyJZCgHkAGbZASYVssgrO75V9krwKkkfS6uACjtbLT4fg7PIj536EOWBS0UG4o0ygSBrsdwLaZBNxKQ"
 RECIPIENT_PSID    = "26867085002941301"
-MESSAGE_TEXT      = "Good morning! Have a great day."  # Edit your message here
-SEND_TIME         = "07:00"                            # 24h format, local timezone
+MESSAGE_TEXT      = "Đừng lọ nhé Hào béo <3."  # Edit your message here
+SEND_TIME         = SEND_TIME = "00:00"  # midnight UTC = 7am Hanoi time
 # ──────────────────────────────────────────────────────────────────────────────
 
 
